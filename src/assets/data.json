@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "07/01/2023",
+      "title": "KRISHI HAL",
+      "description": "This is the software based system with real-time monitoring of data. This project has the facility to recommend crops according to the meterological conditions",
+      "url": "https://github.com/Sonal997199/Krishi-Hal",
+      "imgSrc": "https://cdn.pixabay.com/photo/2021/10/11/11/12/countryside-6700296_1280.jpg"
+    },
+
+    {
+      "date": "11/10/2023",
+      "title": "CHAT APP",
+      "description": "This is the chat app. This chat app has the function to chat with others with authentication",
+      "url": "https://65984e3d9ed5893e90611d1c--sage-brioche-f729f6.netlify.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2015/11/06/15/13/internet-1028794_1280.jpg"
+    },
+    {
+      "date": "02/01/2024",
+      "title": "XCrypto",
+      "description": "This is the react crypto app. It is used for coin details and for exchange details in different currency. This app also shows the graph of coin details",
+      "url": "https://react-crypto-app-blond.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "05/01/2024",
+      "title": "REACT NETFLIX CLONE",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://netflix-clone-ebon-six.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/02/21/17/33/netflix-4011807_1280.jpg"
+    },
+    {
+      "date": "23/12/2023",
+      "title": "PORTFOLIO",
+      "description": "This is my portfolio. This portfolio have the details about my work and services to hire me as a developer",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
