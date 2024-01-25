@@ -7,7 +7,13 @@
       "url": "https://github.com/Sonal997199/Krishi-Hal",
       "imgSrc": "https://cdn.pixabay.com/photo/2021/10/11/11/12/countryside-6700296_1280.jpg"
     },
-
+    {
+      "date": "07/01/2023",
+      "title": "MALARIA PREDICTOR",
+      "description": "This is the software based system for malaria prediction. I used the CNN algorithm which used RBCs images for prediction.",
+      "url": "https://github.com/Sonal997199/malaria_predictor",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/05/25/15/17/the-mosquito-5219052_1280.jpg"
+    },
     {
       "date": "11/10/2023",
       "title": "CHAT APP",
@@ -26,7 +32,7 @@
     {
       "date": "05/01/2024",
       "title": "REACT NETFLIX CLONE",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "This is the react clone app. I made the netflix clone to practice my react skills",
       "url": "https://netflix-clone-ebon-six.vercel.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2019/02/21/17/33/netflix-4011807_1280.jpg"
     },
